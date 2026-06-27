@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+.vs/
+.idea/
+dist/
+*.zip
+*.pdb
+.DS_Store
+Thumbs.db
+
+# Internal dev scaffolding, not part of the mod
+tools/
