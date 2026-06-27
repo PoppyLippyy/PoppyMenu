@@ -81,6 +81,12 @@ This covers a ton of ground and a lot of it was built fast, so expect rough edge
 ## Feedback
 I'd genuinely love to hear suggestions, feature ideas, and bug reports. If there's something you want added, or something's acting up, drop a comment and let me know. I'm always happy to keep improving it.
 
+## A note on AI
+
+I work as a programmer at a game studio, but I'm new to Risk of Rain 2 and its modding scene. I leaned on AI a lot to build this, mostly because it can read the game's API and the existing mod docs way faster than I can, which is what let me get up to speed and put something this size together.
+
+For what it's worth, I don't think AI belongs in art or creative fields. But as a tool for a programmer learning an unfamiliar codebase, it's hard to deny how useful it is. Either way the whole thing is open source, so you don't have to take my word for any of it. Read the code and decide for yourself.
+
 ## Credits
 Poppy Menu is made by Poppy.
 
