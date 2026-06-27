@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.3
+- Added a short note about AI use and a link to the source repo on GitHub.
+- Cleaned up the readme and in-game wording.
+
 ## 2.2.2
 - Presets can be set to "Load on startup". Mark one as your default and it applies automatically the first time you load into a game each session, so reopening the game restores your setup. Shown with a STARTUP badge.
 
